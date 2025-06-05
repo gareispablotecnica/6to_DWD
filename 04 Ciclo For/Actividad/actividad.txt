@@ -1,0 +1,12 @@
+El Entrenamiento del Guerrero
+Un joven guerrero está en su primer día de entrenamiento. Su maestro le dice:
+
+“Para convertirte en un verdadero defensor del reino, deberás practicar 
+5 golpes con tu espada. Cada golpe debe ser anunciado con un nombre de golpe.”
+
+Tu misión como programador es ayudar al joven guerrero a repetir el entrenamiento correctamente.
+
+Ejercicio (for)
+    * Usar un ciclo for para repetir una acción 5 veces.
+
+    * Mostrar en consola cada golpe del entrenamiento con su número.
