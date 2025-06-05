@@ -1,0 +1,7 @@
+Pedile al usuario que responda a la siguiente pregunta:
+
+“¿Cuál es la capital de Santa Fe?”
+
+Si el usuario responde correctamente:
+  - Si es Correcto , Mostrale el siguiente mensaje --> "Respuesta Correcta"
+  - Si es Incorrecto , Mostrale el siguiente mensaje -->  "Respuesta Incorrecta

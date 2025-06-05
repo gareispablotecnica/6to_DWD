@@ -1,0 +1,21 @@
+Un joven héroe camina por el bosque y se encuentra con un dragón dormido. 
+A su lado hay un cartel que dice:
+
+"Solo podrás pasar si respondes correctamente dos preguntas. Pero cuidado... si fallás, ¡el dragón despertará!"
+
+Ejercicio (con if anidado)
+
+El usuario responde a la primera pregunta.
+
+ * Si la primera respuesta es correcta, se le hace la segunda.
+
+ * Si también responde bien, ¡logra pasar!
+
+ * Si falla alguna... el dragón despierta 
+
+
+Preguntas:
+
+Pregunta 1: ¿Cuánto es 5 + 3?
+Pregunta 2: ¿Cuál es la primera letra de la palabra 'dragón'?
+

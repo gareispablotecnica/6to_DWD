@@ -1,0 +1,6 @@
+Declarar y almacenar los siguientes datos de un Usuario:
+	* Apellido
+	* Nombre
+	* Año de Nacimiento (Solo Año)
+
+Calcular La edad del Usuario e Imprimirlo mediante un Alert.
