@@ -1,0 +1,18 @@
+
+COMPRAS:
+    - Usar los métodos de array para gestionar una lista de compras.
+    
+CONSIGNAS:
+    -Crear un array vacío llamado listaCompras.
+
+    -Agregar 3 productos al final con push().
+
+    -Agregar un producto al principio con unshift().
+
+    -Eliminar el último producto con pop().
+
+    -Eliminar el primer producto con shift().
+
+    -Ordenar alfabéticamente la lista con sort().
+
+    -Mostrar el resultado final en consola.
